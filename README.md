@@ -1,13 +1,15 @@
-[](https://github.com/bryansf94/Book-Here/blob/main/Logo.png)
+<div align="center">
+  <img src="https://github.com/bryansf94/Book-Here/blob/main/logo_com_fundo.jpg" alt=" " width="300">
+</div>
 
 
 # BookHere - Documentação de Requisitos
 
-## Introdução
+## Sobre o Projeto
 
-O sistema BookHere é uma plataforma digital inovadora que visa facilitar a gestão e o compartilhamento de livros em bibliotecas. Desenvolvido com base em um estudo detalhado de requisitos, o BookHere oferece uma solução completa para administradores e usuários, desde o cadastro do acervo até a reserva e leitura online de obras.
+O sistema BookHere é uma plataforma digital que está sendo desenvolvido para facilitar a gestão e o compartilhamento de livros em bibliotecas. Desenvolvido com base em um estudo detalhado de requisitos, o BookHere oferece uma solução completa para administradores e usuários, desde o cadastro do acervo até a reserva e leitura online de obras.
 
-## Requisitos Funcionais
+## Funcionalidades que serão implementadas
 
 ### Migração do Catálogo Físico
 
@@ -41,9 +43,25 @@ O sistema BookHere é uma plataforma digital inovadora que visa facilitar a gest
 
 ## Fluxo de Funcionamento
 
+<div align="center">
+  <img src="https://github.com/bryansf94/Book-Here/blob/main/01%20-%20Diagramas%20e%20Fluxogramas/Fluxogramas/Fluxograma%20Essencial%20-%20Bookhere(1).jpg" alt=" ">
+</div>
+
 1. **Acesso ao Catálogo**: O usuário acessa o sistema BookHere e consulta o catálogo de livros disponíveis.
 2. **Reserva de Livros**: O usuário realiza a reserva de um livro físico que esteja disponível.
 3. **Leitura de Livros Digitais**: O usuário acessa os livros digitalizados disponíveis na plataforma para leitura online.
+
+
+## Licenças para Uso
+
+Este projeto foi idealizado e está sendo desenvolvido com fins educacionais. Qualquer utilização deste projeto deve ser exclusivamente para estudo, sem fins lucrativos. Sinta-se à vontade para visualizar as imagens, seguir a documentação dos requisitos e conduzir pesquisas de UX e UI, mas por favor, não utilize o projeto para fins comerciais.
+
+## Formas de Utilizar o projeto
+
+1. **Acesse os arquivos do projeto**
+2. **Baixe os arquivos de sua preferência**
+3. **Se inspire ou tire suas dúvidas**
+4. **Mão na massa e faça o seu!!**
 
 ## Conclusão
 
