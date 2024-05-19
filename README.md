@@ -3,7 +3,7 @@
 </div>
 
 
-# BookHere - Documentação de Requisitos
+# Projeto BookHere 
 
 ## Sobre o Projeto
 
